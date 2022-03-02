@@ -1,5 +1,9 @@
+import tkinter
+from tkinter import *
+
 def main():
-    print("Hello, World!")
+    root = Tk()
+    root.mainloop()
 
 if __name__ == "__main__":
     main()
