@@ -41,3 +41,5 @@
 - **TRE**: chi ha più 3.
 - **TREA**: chi ha il 3 di fiori.
 Ognuno equivale ad 1 punto.
+
+Powered by Maestro, Dottò e Lamparello
