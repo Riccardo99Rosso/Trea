@@ -36,7 +36,6 @@
 
 
 ### **Punteggio**
-- **CARTE**: chi ha più carte.
 - **FIORI**: chi ha più fiori.
 - **TRE**: chi ha più 3.
 - **TREA**: chi ha il 3 di fiori.
