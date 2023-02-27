@@ -29,7 +29,7 @@
 - Inizia il giocatore più anziano.
 - I due giocatori girano per primi e all'unisono le carte, solo dopo il banco.
 - Dopo la prima mano, il primo a prendere è colui che ha vinto la mano precedente.
-- Se qualcuno deve toccare il proprio mazzo e non ce l'ha, allora vince il gioco e ottiene il massimo dei punti.
+- Se qualcuno deve toccare il proprio mazzo durante uno scambio e non ce l'ha, allora vince il gioco e ottiene il massimo dei punti.
 - L'ultima carta che avanza va al giocatore che vince l'ultima mano.
 - Il primo che arriva a 9 punti vince.
 - Se i giocatori devono scambiarsi i mazzi ma nessuno dei due possiede carte allora è patta e si avrà un punto a testa.
